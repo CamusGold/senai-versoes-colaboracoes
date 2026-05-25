@@ -1,3 +1,1 @@
-﻿Esse arquivo está sendo editado dentro do github-remoto
 
-testanto git commit
