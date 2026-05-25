@@ -1,1 +1,3 @@
-Esse arquivo está sendo editado dentro do github-remoto
+﻿Esse arquivo está sendo editado dentro do github-remoto
+
+testanto git commit
